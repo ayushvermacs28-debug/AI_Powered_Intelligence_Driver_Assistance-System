@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+Lane Detection Module/dataset/
+Lane Detection Module/runs/detect/train-2/
+Lane Detection Module/*.zip

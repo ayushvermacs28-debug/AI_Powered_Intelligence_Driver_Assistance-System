@@ -1,0 +1,7 @@
+path: C:/Users/Ananya/Downloads/ADAS_Lane_Project/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: road_line
