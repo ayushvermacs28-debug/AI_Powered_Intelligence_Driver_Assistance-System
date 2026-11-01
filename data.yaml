@@ -1,8 +1,0 @@
-path: C:\Users\mridu\Downloads\yolo_pothole\pothole_yolo
-
-train: images/train
-val: images/val
-test: images/test
-
-names:
-  0: pothole
